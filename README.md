@@ -1,5 +1,4 @@
 # Coffee Sales Dashboard:
-Tools used: Excel
 
 ## Coffee Sales Analysis — Excel Data Analytics Project
 This project analyzes transactional coffee sales data spanning from 2019 to 2022 across three countries — the United States, Ireland, and the United Kingdom. 
