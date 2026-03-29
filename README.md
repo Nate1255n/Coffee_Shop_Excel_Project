@@ -6,9 +6,9 @@ The dataset contains 1,000 customer records, 48 products across four coffee type
 with details on roast type, bag size, unit price, and loyalty card membership.
 
 ## Data used in the Project
-- <a href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/customer_shopping_behavior.csv">Customer Behavior Data
-data cleaning with XLOOKUP and INDEX/MATCH,
+- <a
+href="https://github.com/Nate1255n/Coffee_Shop_Excel_Project/blob/main/coffeeOrdersData.xlsx">Coffee Orders Data
 
 ## Preprocessing
 - <a
-href="https://github.com/Nate1255n/customer_behavior_dashboard/blob/main/Customer_Shopping_Data_Cleaning.ipynb">Data Preprocessing
+href="https://github.com/Nate1255n/Coffee_Shop_Excel_Project/blob/main/coffeeOrdersData.xlsx">Data PreProcessing
